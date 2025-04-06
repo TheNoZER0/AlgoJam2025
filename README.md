@@ -2,7 +2,10 @@
 
 ## Small showcase of Algojam competition
 
-### Team
+### Team (Overtime Market Makers)
+
+### Members
+
 Zac Kienzle
 
 Zain Al-Saffi
